@@ -59,8 +59,6 @@ header p{
     text-align: center;
     font-size: 1.5em;
     color:var(--cor0);;
-    max-width: 700px;
-    padding-left: 251px;
     padding-bottom: 40px;  
     text-shadow:2px 2px 0px rgba(13, 13, 13, 0.808);
 }
